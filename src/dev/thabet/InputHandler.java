@@ -30,7 +30,7 @@ public class InputHandler {
                 System.out.println(
                         "Slot already taken, re-enter slot number:");
             } else {
-                System.out.println("");
+                System.out.println();
                 return numInput;
             }
 
